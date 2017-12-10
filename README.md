@@ -13,8 +13,11 @@ With YNCA you can do something like:
 
 ## Setup:
 Name can be whatever you want.
+
 Get the ip for your receiver in the Yamaha AV Controller App.
+
 Don't change the port unless you did something different, the default YNCA port is 50000.
+
 Just add the inputs you want to show up in the Home app in the inputs array. These have to match the default input name on the receiver, you can change the name of the input in the Home app once it is added.
 
 ## Important Info
