@@ -2,7 +2,7 @@
 
 This plugin will connect to YNCA protocol compatible Yamaha receivers. ([Yamaha AV Controller App](https://usa.yamaha.com/products/audio_visual/apps/av_controller/index.html))
 
-I made this because I wasn't happy with the current homebridge-yamaha plugin. The yamaha-nodejs library doesn't allow for continuous connection so by using this plugin you can't run scenes based on the status of your receiver.
+I made this because I wasn't happy with the current homebridge-yamaha plugin. The yamaha-nodejs library doesn't allow for continuous connection so by using this plugin you can run scenes based on the status of your receiver.
 
 With YNCA you can do something like:
 
