@@ -1,0 +1,23 @@
+{
+    "bridge": {
+        "name": "Homebridge",
+        "username": "",
+        "port": 51826,
+        "pin": ""
+    },
+
+	"description": "HOMBRIDGE CONFIG FOR YNCA",
+
+	"accessories": [],
+	"platforms": [
+        {
+          "platform": "YNCA",
+          "name": "Yamaha",
+          "devices": [{
+              "name": "Yamaha",
+              "host": "192.168.0.11",
+              "port": "50000",
+              "inputs": ["AV1","AV3"]
+          }]
+      }]
+}
