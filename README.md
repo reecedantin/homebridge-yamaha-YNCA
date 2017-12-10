@@ -6,9 +6,9 @@ I made this because I wasn't happy with the current homebridge-yamaha plugin. Th
 
 With YNCA you can do something like:
 
-When you turn on the receiver, turn off the lights.
-When you change to the gaming input, make the lights green.
-Set a scene for music that automatically turns on the receiver, changes the input to Spotify, and sets the appropriate volume.
+* When you turn on the receiver, turn off the lights.
+* When you change to the gaming input, make the lights green.
+* Set a scene for music that automatically turns on the receiver, changes the input to Spotify, and sets the appropriate volume.
 
 
 ## Setup:
